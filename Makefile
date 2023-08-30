@@ -888,13 +888,7 @@ qrc_qml.cpp: ../untitled5/qml.qrc \
 		../untitled5/sommenous.qml \
 		../untitled5/main.qml \
 		../untitled5/fontawesome-webfont.ttf \
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 		../untitled5/logoimage/metrotech0.png \
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		../untitled5/logoimage/m-mtec.png \
 		../untitled5/logoimage/location.svg \
 		../untitled5/logoimage/globe-solid.svg \
